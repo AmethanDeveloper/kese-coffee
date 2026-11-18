@@ -1,0 +1,11 @@
+{
+  "name": "kese-push",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Kese Coffee: push-уведомления персоналу о новых заказах",
+  "main": "server.js",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "web-push": "3.6.7"
+  }
+}
